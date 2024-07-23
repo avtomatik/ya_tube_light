@@ -1,0 +1,4 @@
+# posts/urls.py
+
+urlpatterns = [
+]
